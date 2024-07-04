@@ -11,7 +11,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const App = () => {
 
-  const url= "https://hungryhive-backend-4224.onrender.com/";
+  const url= "https://hungryhive-backend-4224.onrender.com";
 
   return (
     <div>
