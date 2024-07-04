@@ -7,7 +7,7 @@ const stripe  = new Stripe(process.env.STRIPE_SECRET_KEY);
 
 //placing user order for frontend
 const placeOrder = async (req,res) =>{
-    const frontend_url = "https://hungry-hive-phi.vercel.app"
+    const frontend_url = "https://hungryhive-uo8f.onrender.com"
 
     try{
         const newOrder = new orderModel({
