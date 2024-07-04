@@ -81,7 +81,7 @@ const Contact = () => {
               </span>
               <h2 className="contact-info-title">Phone</h2>
               <p className="contact-info-text">Mon-Fri from 8am to 5pm.</p>
-              <p className="contact-info-link"><a href='tel9:+91 8890758025'>+91 8890758025</a></p>
+              <p className="contact-info-link"><a href='tel:+91 8890758025'>+91 8890758025</a></p>
             </div>
           </div>
 
