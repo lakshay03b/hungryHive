@@ -7,7 +7,7 @@ export const StoreContext = createContext(null)
 const StoreContextProvider = (props) => {
 
     const [cartItems, setCartItems] = useState({});
-    const url="https://hungry-hive-ei8nn8zxx-lakshay-bansals-projects-7b5c40ec.vercel.app"
+    const url="https://hungryhive-backend-4224.onrender.com"
     const [token,setToken] = useState("");
     const [food_list,setFoodList] = useState([])
 
